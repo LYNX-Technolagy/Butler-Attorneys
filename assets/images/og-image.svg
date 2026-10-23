@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-label="Butler Attorneys — Straight answers. Strong representation.">
+  <!-- Background -->
+  <rect width="1200" height="630" fill="#1B3A5C"/>
+
+  <!-- Thin accent line above the text -->
+  <line x1="540" y1="240" x2="660" y2="240" stroke="#C9A227" stroke-width="2"/>
+
+  <!-- Primary wordmark -->
+  <text x="600" y="340" text-anchor="middle"
+        font-family="'Playfair Display', 'Georgia', 'Times New Roman', serif"
+        font-weight="700" font-size="92" letter-spacing="-1" fill="#FFFFFF">Butler Attorneys</text>
+
+  <!-- Subtext -->
+  <text x="600" y="410" text-anchor="middle"
+        font-family="'Inter', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+        font-weight="400" font-size="26" letter-spacing="1" fill="#FFFFFF" fill-opacity="0.85">Straight answers. Strong representation.</text>
+</svg>
